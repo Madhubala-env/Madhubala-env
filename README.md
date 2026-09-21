@@ -58,11 +58,14 @@ Inventory search (keyword, city, year, body style, price), authentication, deale
 
 ## GitHub
 
-Live stats (refreshed from GitHub; not hardcoded):
+Live stats from GitHub (not hardcoded). The streak card shows **current** and **longest** streak.
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Madhubala-env&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Madhubala-env&amp;layout=compact&amp;theme=github_dark" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Madhubala-env&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;theme=github_dark&amp;cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=Madhubala-env&amp;theme=github-dark-blue&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak: current and longest" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Madhubala-env&amp;layout=compact&amp;theme=github_dark&amp;cache_seconds=1800" alt="Top languages" />
 </p>
 
 ---
