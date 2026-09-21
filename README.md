@@ -58,11 +58,11 @@ Inventory search (keyword, city, year, body style, price), authentication, deale
 
 ## GitHub
 
-Live stats from GitHub (not hardcoded):
+Live stats (refreshed from GitHub; not hardcoded):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhubala-env&show_icons=true&include_all_commits=true&count_private=false&hide_title=true&hide_rank=true" alt="GitHub stats for Madhubala-env" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubala-env&layout=compact&hide_title=true" alt="Top languages on Madhubala-env" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Madhubala-env&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Madhubala-env&amp;layout=compact&amp;theme=github_dark" alt="Top languages" />
 </p>
 
 ---
